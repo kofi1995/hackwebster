@@ -1,0 +1,31 @@
+.quote{
+	color: #0099FF;
+}
+
+.authorname{
+	color: #6600FF;
+}
+
+.authormail {
+	color: #00CC66;
+}
+
+a.authormail: hover {
+	color: #FF0000;
+}
+
+.trending {
+	color : #4765A3;
+}
+
+.posttitle {
+	color : #3b5998;
+}
+
+#latestarticle {
+	color : #3d5998;
+}
+
+.topic {
+	#color : #292BCA ;
+}
